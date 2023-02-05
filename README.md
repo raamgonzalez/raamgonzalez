@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Ramsés González. 
-##I am an Architect passionate about web design and front-end.
+  I am an Architect passionate about web design and front-end.
 
 - 🔭 I’m currently working on <Architecture>
 - 🌱 I’m currently learning <ReactJs>
