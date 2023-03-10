@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raamgonzalez" alt="raamgonzalez" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio Personal](https://portfolio-3i1e3zskz-raamgonzalez.vercel.app/)
+- 🔭 I’m currently working on [Write per minute][(https://portfolio-3i1e3zskz-raamgonzalez.vercel.app/)](https://github.com/raamgonzalez/writeperminute)
 
 - 🌱 I’m currently learning **TypeScript, Jquery, Jest**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-3i1e3zskz-raamgonzalez.vercel.app/](https://portfolio-3i1e3zskz-raamgonzalez.vercel.app/)
+- 👨‍💻 All of my projects are available at [Profile Web](https://portfolio-3i1e3zskz-raamgonzalez.vercel.app/)
 
 - 💬 Ask me about **html, css, javascript, react, python, django**
 
 - 📫 How to reach me **gz.ramses.oc@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFcYzCo_eI/9QW3c8EfMB1lt29Aqtu6lQ/view?utm_content=DAFcYzCo_eI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFcYzCo_eI/9QW3c8EfMB1lt29Aqtu6lQ/view?utm_content=DAFcYzCo_eI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFcYzCo_eI/9QW3c8EfMB1lt29Aqtu6lQ/view?utm_content=DAFcYzCo_eI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - ⚡ Fun fact **Optimista de gol**
 
