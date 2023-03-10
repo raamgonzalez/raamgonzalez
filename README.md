@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raamgonzalez" alt="raamgonzalez" /></a> </p>
 
-- 🔭 I’m currently working on [Write per minute][(https://github.com/raamgonzalez/writeperminute)]
+- 🔭 I’m currently working on [Write per minute](https://github.com/raamgonzalez/writeperminute)
 
 - 🌱 I’m currently learning **TypeScript, Jquery, Jest**
 
