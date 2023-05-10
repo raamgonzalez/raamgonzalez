@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Jquery, Jest**
 
-- 👨‍💻 All of my projects are available at [Profile Web](https://portfolio-3i1e3zskz-raamgonzalez.vercel.app/)
+- 👨‍💻 All of my projects are available at [Profile Web](https://www.ramsesgonzalez.dev)
 
 - 💬 Ask me about **html, css, javascript, react, python, django**
 
