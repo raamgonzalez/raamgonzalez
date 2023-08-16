@@ -1,10 +1,10 @@
 <h1 align="center">Ramsés González - 💅 Front End Developer and  👷🏻‍♂️ Architect</h1>
-<h3 align="center">A passionate Architect about web design and Front nd.</h3>
+<h3 align="left">A passionate Architect about web design and Front nd.</h3>
 
 
 
 
-- 🔭 I’m currently working on [Write per minute](https://github.com/raamgonzalez/writeperminute)
+- 🔭 I’m currently working on [Web Writter](https://github.com/raamgonzalez/writter-osvaldo_web)
 
 - 🌱 I’m currently learning **TypeScript, Jquery, Jest**
 
