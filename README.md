@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [Profile Web](https://www.ramsesgonzalez.dev)
 
-- 💬 Ask me about **html, css, javascript, react, python, django**
+- 💬 Ask me about **html, css, javascript, react, python, django, sass**
 
 - 📫 How to reach me **gz.ramses.oc@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFcYzCo_eI/9QW3c8EfMB1lt29Aqtu6lQ/view?utm_content=DAFcYzCo_eI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aI-hshr_2jV2ZgWau88vC3uiy1FWOhbb/view)
 
 - ⚡ Fun fact **Optimista de gol**
 
